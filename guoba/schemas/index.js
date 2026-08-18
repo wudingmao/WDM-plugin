@@ -17,7 +17,7 @@ const groupStart = (label) => ({ component: "SOFT_GROUP_BEGIN", label })
  */
 export function buildSchemas() {
   return [
-    groupStart("缤纷樱落"),
+    groupStart("抽奖"),
     ...bfyl(),
     groupStart("每日塔罗"),
     ...tarot(),
@@ -25,10 +25,6 @@ export function buildSchemas() {
     ...holiday(),
     groupStart("蜜柑RSS"),
     ...rss(),
-    groupStart("精致睡眠"),
-    ...sleep(),
-    groupStart("今日番剧"),
-    ...today(),
   ]
 }
 
