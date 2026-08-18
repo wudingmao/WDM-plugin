@@ -1,0 +1,5 @@
+# 蜜柑 RSS 订阅推送插件配置
+# RSS 检查频率（Cron 表达式）
+checkInterval: '*/5 * * * *'
+# 订阅数据文件（相对 Yunzai 根目录）
+configFile: resources/RSS.json

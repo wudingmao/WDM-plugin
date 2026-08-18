@@ -1,0 +1,20 @@
+{
+  "name": "wmd-plugin",
+  "version": "1.0.0",
+  "description": "WDM 插件集：缤纷樱落抽卡、每日塔罗、放假提醒、蜜柑RSS订阅、精致睡眠、今日番剧",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "yunzai",
+    "yunzai-bot",
+    "plugin",
+    "guoba"
+  ],
+  "author": "WMD",
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "rss-parser": "^3.13.0",
+    "yaml": "^2.4.0"
+  }
+}

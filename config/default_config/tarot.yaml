@@ -1,0 +1,5 @@
+# 每日塔罗牌插件配置
+# 卡牌总数（正位22 + 逆位22）
+cardCount: 44
+# 卡牌图片目录（相对 Yunzai 根目录）
+imagePath: resources/tarots

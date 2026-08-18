@@ -1,0 +1,10 @@
+# 放假提醒插件配置
+# 定时推送时间（Cron 表达式）
+cronTime: '0 30 9 * * ?'
+# 推送群号
+groupList:
+
+# 放假接口 API Key（showapi 894-4）
+appKey: ''
+# 数据缓存时长（毫秒），默认 12 小时
+cacheDuration: 43200000

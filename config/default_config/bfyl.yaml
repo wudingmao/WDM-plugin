@@ -1,0 +1,63 @@
+# 缤纷樱落抽卡插件配置
+# 管理员 QQ（可赋权/减权/查看他人 yp）
+masters:
+
+# 高级池奖品（单抽消耗 10 yp）
+advancedPool:
+  - item: 新年红包
+    quantity: 1
+    probability: 40
+  - item: 护符金币
+    quantity: 1
+    probability: 15
+  - item: 护符金币
+    quantity: 5
+    probability: 10
+  - item: 新年红包
+    quantity: 5
+    probability: 10
+  - item: 新年红包
+    quantity: 10
+    probability: 5
+  - item: 2V宝可梦
+    quantity: 1
+    probability: 10
+  - item: 3V宝可梦
+    quantity: 1
+    probability: 5
+  - item: 4V宝可梦
+    quantity: 1
+    probability: 3
+  - item: 5V宝可梦
+    quantity: 1
+    probability: 1
+  - item: 6V宝可梦
+    quantity: 1
+    probability: 1
+
+# 萌新池奖品（单抽消耗 1 yp）
+beginnerPool:
+  - item: 肩包
+    quantity: 1
+    probability: 30
+  - item: 新年红包
+    quantity: 1
+    probability: 20
+  - item: 双色帽
+    quantity: 1
+    probability: 10
+  - item: 2V宝可梦
+    quantity: 1
+    probability: 10
+  - item: 3V宝可梦
+    quantity: 1
+    probability: 5
+  - item: 护符金币
+    quantity: 1
+    probability: 10
+  - item: 心之鳞片
+    quantity: 1
+    probability: 5
+  - item: 宝可梦素材
+    quantity: 1
+    probability: 10
