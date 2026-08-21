@@ -16,7 +16,7 @@ let ret = []
 
 logger.info('------(●´ω｀●)------')
 logger.info('WDM-plugin 载入成功!')
-logger.info('仓库地址 https://github.com/wudingmao/WDM-plugin/blob/main/index.js')
+logger.info('仓库地址 https://github.com/wudingmao/WDM-plugin')
 logger.info('插件群号: 123456789')
 logger.info('Created By YourName')
 logger.info('---------------------')
